@@ -1,4 +1,4 @@
-# Odin-recripes
+# Recripes
 
 - HTML
 - CSS
